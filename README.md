@@ -54,6 +54,15 @@ Merge/join dataframes in pandas.
 Reoder categorical levels (e.g. sth. like low, medium, high) in seaborn plots.
 ```sns.barplot(data=..., x=..., y=..., order=['low', 'medium', 'high'])```
 
+📊 Sample Outputs:
+![image](https://github.com/user-attachments/assets/14eb1d6e-06e1-43f4-aba5-daa43836c1e4)
+![image](https://github.com/user-attachments/assets/cb78e93d-e284-42a3-9cef-3558f140b26b)
+![image](https://github.com/user-attachments/assets/982729e0-bba2-4c5b-8e0b-a9de8633a268)
+
+![image](https://github.com/user-attachments/assets/f697b22b-9832-4a9c-9270-1a8372acaf9d)
+![image](https://github.com/user-attachments/assets/9fd0da53-0560-4714-afcd-4c6178ae3f59)
+![image](https://github.com/user-attachments/assets/18c96038-c3fb-4f38-b554-039f6a0e5c75)
+
 
 # Setup
 
